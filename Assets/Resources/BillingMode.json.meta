@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9b80ab93841fe364a9b25b03e7a9a50d
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149309
+  packageName: 'Creator Kit: RPG'
+  packageVersion: 2.0
+  assetPath: Assets/Resources/BillingMode.json
+  uploadId: 901168
