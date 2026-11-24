@@ -8,7 +8,14 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Creator Kit - RPG/Scenes/BlankScene 1.unity
     guid: 30839d5427b684a809b3f13fa94e3b0c
+  - enabled: 1
+    path: Assets/Alley.unity
+    guid: 89fea0d14e1b5428f869b0e9137d1cce
+  - enabled: 1
+    path: Assets/Kitchen.unity
+    guid: 155359369814740cba6539061faa216e
+  - enabled: 1
+    path: Assets/Banquet Hall.unity
+    guid: dc3d96e5d35c44c4f99cc471516b8065
   m_configObjects:
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: bc2a94c3995b88843ba40908257bdec4,
-      type: 3}
-  m_UseUCBPForAssetBundles: 0
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: bc2a94c3995b88843ba40908257bdec4, type: 3}

@@ -14,7 +14,6 @@ public class RoomExitPrompt : MonoBehaviour
 
     [Header("Destination")]
     public string nextSceneName = "Kitchen";
-    public Transform sameSceneDestination;
 
     GameModel model;
     bool isPromptOpen;
@@ -50,6 +49,10 @@ public class RoomExitPrompt : MonoBehaviour
         Debug.Log($"[RoomExit] Button clicked with index: {index}");
         model.dialog.Hide();
 
+        // Restore player movement controls after clicking a button
+        if (model.input != null)
+            model.input.ChangeState(InputController.State.CharacterControl);
+
         // index 0 = Yes, index 1 = No
         if (index == 0)
         {
@@ -57,11 +60,6 @@ public class RoomExitPrompt : MonoBehaviour
             {
                 Debug.Log($"[RoomExit] Loading scene: '{nextSceneName}'...");
                 SceneManager.LoadScene(nextSceneName);
-            }
-            else if (sameSceneDestination != null)
-            {
-                Debug.Log($"[RoomExit] Teleporting player to: {sameSceneDestination.position}");
-                model.player.transform.position = sameSceneDestination.position;
             }
         }
         else
