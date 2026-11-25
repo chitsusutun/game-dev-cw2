@@ -60,13 +60,13 @@
         "*.asset": "yaml",
         "*.meta": "yaml",
         "*.prefab": "yaml",
-        "*.unity": "yaml",
+        "*.unity": "yaml"
     },
     "explorer.fileNesting.enabled": true,
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "My project.slnx",
+    "dotnet.defaultSolution": "game-dev-cw2-2026-11-25-22-33-16.slnx",
     "git.ignoreLimitWarning": true
 }
