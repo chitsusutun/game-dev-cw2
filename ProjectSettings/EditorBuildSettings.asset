@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Creator Kit - RPG/Scenes/BlankScene 1.unity
     guid: 30839d5427b684a809b3f13fa94e3b0c
   - enabled: 1
+    path: Assets/Home Screen.unity
+    guid: 55639d907ef8b4a87b09dfbab133cdba
+  - enabled: 1
     path: Assets/Alley.unity
     guid: 89fea0d14e1b5428f869b0e9137d1cce
   - enabled: 1

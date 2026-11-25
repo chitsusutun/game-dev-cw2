@@ -20,7 +20,7 @@ namespace RPGM.UI
             Pause
         }
 
-        State state;
+        public State state;
 
         public void ChangeState(State state) => this.state = state;
 
@@ -39,12 +39,13 @@ namespace RPGM.UI
 
         void DialogControl()
         {
-            model.player.nextMoveCommand = Vector3.zero;
-            if (Keyboard.current.leftArrowKey.wasPressedThisFrame)
+            if (model.dialog == null) return;
+
+            if (Input.GetKeyDown(KeyCode.LeftArrow))
                 model.dialog.FocusButton(-1);
-            else if (Keyboard.current.rightArrowKey.wasPressedThisFrame)
+            else if (Input.GetKeyDown(KeyCode.RightArrow))
                 model.dialog.FocusButton(+1);
-            if (Keyboard.current.spaceKey.wasPressedThisFrame)
+            if (Input.GetKeyDown(KeyCode.Space))
                 model.dialog.SelectActiveButton();
         }
 
