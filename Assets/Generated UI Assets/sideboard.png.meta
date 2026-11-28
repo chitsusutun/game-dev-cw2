@@ -1,0 +1,1276 @@
+fileFormatVersion: 2
+guid: cfd11a4e685d24ed38dd86a30ef958db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3479204128813149596
+    second: sideboard_0
+  - first:
+      213: -7421958887094495042
+    second: sideboard_1
+  - first:
+      213: 3154025002153307331
+    second: sideboard_2
+  - first:
+      213: 8893189024816178831
+    second: sideboard_3
+  - first:
+      213: -3607104001481374353
+    second: sideboard_4
+  - first:
+      213: 2544449129098649867
+    second: sideboard_5
+  - first:
+      213: -2386803006409252077
+    second: sideboard_6
+  - first:
+      213: 7949845862467147592
+    second: sideboard_7
+  - first:
+      213: 6953343158504327651
+    second: sideboard_8
+  - first:
+      213: 3131762951328347610
+    second: sideboard_9
+  - first:
+      213: -5671854975475239458
+    second: sideboard_10
+  - first:
+      213: -8053168644175592089
+    second: sideboard_11
+  - first:
+      213: -4366339030612245103
+    second: sideboard_12
+  - first:
+      213: -5589445270138593658
+    second: sideboard_13
+  - first:
+      213: 2753727735838980809
+    second: sideboard_14
+  - first:
+      213: -4860696346331694475
+    second: sideboard_15
+  - first:
+      213: 2790422230293697689
+    second: sideboard_16
+  - first:
+      213: 2654818470282167283
+    second: sideboard_17
+  - first:
+      213: 8454839735084672638
+    second: sideboard_18
+  - first:
+      213: -3671356189934715421
+    second: sideboard_19
+  - first:
+      213: 1266169831366749871
+    second: sideboard_20
+  - first:
+      213: -3271682432817710490
+    second: sideboard_21
+  - first:
+      213: 3446695696970352614
+    second: sideboard_22
+  - first:
+      213: 16075402976247227
+    second: sideboard_23
+  - first:
+      213: 2311959250352481522
+    second: sideboard_24
+  - first:
+      213: -503055159126121333
+    second: sideboard_25
+  - first:
+      213: 9062879115885623619
+    second: sideboard_26
+  - first:
+      213: 199355245402710840
+    second: sideboard_27
+  - first:
+      213: 7220683581930558050
+    second: sideboard_28
+  - first:
+      213: 3600002398891397924
+    second: sideboard_29
+  - first:
+      213: 1754749125886352116
+    second: sideboard_30
+  - first:
+      213: 7356286701861502382
+    second: sideboard_31
+  - first:
+      213: -7585695519444768345
+    second: sideboard_32
+  - first:
+      213: -500462350241860546
+    second: sideboard_33
+  - first:
+      213: 8293850358492750114
+    second: sideboard_34
+  - first:
+      213: -9034599388870511644
+    second: sideboard_35
+  - first:
+      213: -3029714899068818009
+    second: sideboard_36
+  - first:
+      213: -5179870614327158171
+    second: sideboard_37
+  - first:
+      213: -6704626641763301722
+    second: sideboard_38
+  - first:
+      213: 7294038733288340190
+    second: sideboard_39
+  - first:
+      213: -7125305320219000228
+    second: sideboard_40
+  - first:
+      213: 5638516574954156496
+    second: sideboard_41
+  - first:
+      213: -3987578001785497027
+    second: sideboard_42
+  - first:
+      213: 6977005390845760052
+    second: sideboard_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sideboard_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 880
+        height: 1756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4621509474267bfc0800000000000000
+      internalID: -3479204128813149596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1519
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8dd2527b7eff890800000000000000
+      internalID: -7421958887094495042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_2
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1475
+        width: 46
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc6c0a570955cb20800000000000000
+      internalID: 3154025002153307331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1128
+        width: 62
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f862298cc44fa6b70800000000000000
+      internalID: 8893189024816178831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 561
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6500db950ef0fdc0800000000000000
+      internalID: -3607104001481374353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_5
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 555
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b012af87003bf4320800000000000000
+      internalID: 2544449129098649867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_6
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 523
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313642ebf4f50eed0800000000000000
+      internalID: -2386803006409252077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 469
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847967b11b6835e60800000000000000
+      internalID: 7949845862467147592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_8
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 456
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e90b0423cc3f7060800000000000000
+      internalID: 6953343158504327651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_9
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 491
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5b7aabfc1467b20800000000000000
+      internalID: 3131762951328347610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_10
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 432
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5344953f58941b0800000000000000
+      internalID: -5671854975475239458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_11
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 409
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765899f19c56d3090800000000000000
+      internalID: -8053168644175592089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_12
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 400
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1950f6719c5a763c0800000000000000
+      internalID: -4366339030612245103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 378
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ed6e5142d4e62b0800000000000000
+      internalID: -5589445270138593658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 330
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cab2de29c4373620800000000000000
+      internalID: 2753727735838980809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 313
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a3cd31d665b8cb0800000000000000
+      internalID: -4860696346331694475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_16
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 313
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9945202fb3299b620800000000000000
+      internalID: 2790422230293697689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_17
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 291
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f38058355fc7d420800000000000000
+      internalID: 2654818470282167283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_18
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 265
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76649281ff955570800000000000000
+      internalID: 8454839735084672638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_19
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 223
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed72073ff8bc0dc0800000000000000
+      internalID: -3671356189934715421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_20
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 179
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae6eefc0c6529110800000000000000
+      internalID: 1266169831366749871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_21
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 146
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ab3065926a892d0800000000000000
+      internalID: -3271682432817710490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 155
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e709ca997f15df20800000000000000
+      internalID: 3446695696970352614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_23
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 160
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd350c6e7c193000800000000000000
+      internalID: 16075402976247227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_24
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 143
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4207c50bab51020800000000000000
+      internalID: 2311959250352481522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_25
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 104
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b842cd18ff9c409f0800000000000000
+      internalID: -503055159126121333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_26
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 82
+        width: 77
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3493ba8e980d5cd70800000000000000
+      internalID: 9062879115885623619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_27
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 80
+        width: 77
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833e65a1a8044c200800000000000000
+      internalID: 199355245402710840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_28
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 55
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26257700675053460800000000000000
+      internalID: 7220683581930558050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_29
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 47
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423d970bb17c5f130800000000000000
+      internalID: 3600002398891397924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_30
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 47
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa126e680f1a5810800000000000000
+      internalID: 1754749125886352116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_31
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 41
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead7262b7c7c61660800000000000000
+      internalID: 7356286701861502382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_32
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 55
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9e835ad123ab690800000000000000
+      internalID: -7585695519444768345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_33
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 48
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34706ed4200e09f0800000000000000
+      internalID: -500462350241860546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 41
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221e43655fca91370800000000000000
+      internalID: 8293850358492750114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_35
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 31
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3796229b7ae9280800000000000000
+      internalID: -9034599388870511644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_36
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 45
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad6b46f95a44f5d0800000000000000
+      internalID: -3029714899068818009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_37
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 39
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a9b82de176d18b0800000000000000
+      internalID: -5179870614327158171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_38
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 34
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6041a879164f2a0800000000000000
+      internalID: -6704626641763301722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_39
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 13
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda779b1591a93560800000000000000
+      internalID: 7294038733288340190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_40
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 30
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5245201094dd1d90800000000000000
+      internalID: -7125305320219000228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_41
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 20
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d17b4663f8004e40800000000000000
+      internalID: 5638516574954156496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_42
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 19
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ad9693fe649a8c0800000000000000
+      internalID: -3987578001785497027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sideboard_43
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 19
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432d85def6d43d060800000000000000
+      internalID: 6977005390845760052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sideboard_0: -3479204128813149596
+      sideboard_1: -7421958887094495042
+      sideboard_10: -5671854975475239458
+      sideboard_11: -8053168644175592089
+      sideboard_12: -4366339030612245103
+      sideboard_13: -5589445270138593658
+      sideboard_14: 2753727735838980809
+      sideboard_15: -4860696346331694475
+      sideboard_16: 2790422230293697689
+      sideboard_17: 2654818470282167283
+      sideboard_18: 8454839735084672638
+      sideboard_19: -3671356189934715421
+      sideboard_2: 3154025002153307331
+      sideboard_20: 1266169831366749871
+      sideboard_21: -3271682432817710490
+      sideboard_22: 3446695696970352614
+      sideboard_23: 16075402976247227
+      sideboard_24: 2311959250352481522
+      sideboard_25: -503055159126121333
+      sideboard_26: 9062879115885623619
+      sideboard_27: 199355245402710840
+      sideboard_28: 7220683581930558050
+      sideboard_29: 3600002398891397924
+      sideboard_3: 8893189024816178831
+      sideboard_30: 1754749125886352116
+      sideboard_31: 7356286701861502382
+      sideboard_32: -7585695519444768345
+      sideboard_33: -500462350241860546
+      sideboard_34: 8293850358492750114
+      sideboard_35: -9034599388870511644
+      sideboard_36: -3029714899068818009
+      sideboard_37: -5179870614327158171
+      sideboard_38: -6704626641763301722
+      sideboard_39: 7294038733288340190
+      sideboard_4: -3607104001481374353
+      sideboard_40: -7125305320219000228
+      sideboard_41: 5638516574954156496
+      sideboard_42: -3987578001785497027
+      sideboard_43: 6977005390845760052
+      sideboard_5: 2544449129098649867
+      sideboard_6: -2386803006409252077
+      sideboard_7: 7949845862467147592
+      sideboard_8: 6953343158504327651
+      sideboard_9: 3131762951328347610
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

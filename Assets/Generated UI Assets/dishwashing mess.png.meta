@@ -1,0 +1,2524 @@
+fileFormatVersion: 2
+guid: 7e59ca24c58824d53b044d5cc81e5f2d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4937365987557101865
+    second: dishwashing mess_0
+  - first:
+      213: -3584583058501191024
+    second: dishwashing mess_1
+  - first:
+      213: -152152339206811324
+    second: dishwashing mess_2
+  - first:
+      213: 4758146305171976423
+    second: dishwashing mess_3
+  - first:
+      213: 5335330529774059521
+    second: dishwashing mess_4
+  - first:
+      213: 1775461644785281337
+    second: dishwashing mess_5
+  - first:
+      213: -5384061746650677907
+    second: dishwashing mess_6
+  - first:
+      213: -2700576700625681938
+    second: dishwashing mess_7
+  - first:
+      213: -5690713656477543635
+    second: dishwashing mess_8
+  - first:
+      213: 6772915769593375289
+    second: dishwashing mess_9
+  - first:
+      213: 3401929164011281054
+    second: dishwashing mess_10
+  - first:
+      213: 2078779563746699333
+    second: dishwashing mess_11
+  - first:
+      213: 7592478516979001683
+    second: dishwashing mess_12
+  - first:
+      213: 6742071125212646617
+    second: dishwashing mess_13
+  - first:
+      213: 12338654266022204
+    second: dishwashing mess_14
+  - first:
+      213: -3274393301678917637
+    second: dishwashing mess_15
+  - first:
+      213: 8931921631038785707
+    second: dishwashing mess_16
+  - first:
+      213: -2419549712805580038
+    second: dishwashing mess_17
+  - first:
+      213: -9170099167226672561
+    second: dishwashing mess_18
+  - first:
+      213: -4950309782865533851
+    second: dishwashing mess_19
+  - first:
+      213: -2557625503157993619
+    second: dishwashing mess_20
+  - first:
+      213: 4888096270802192444
+    second: dishwashing mess_21
+  - first:
+      213: -5476437023339638843
+    second: dishwashing mess_22
+  - first:
+      213: -7979661520948536829
+    second: dishwashing mess_23
+  - first:
+      213: 3644238652230904649
+    second: dishwashing mess_24
+  - first:
+      213: -338518663299682195
+    second: dishwashing mess_25
+  - first:
+      213: -5368591414751069063
+    second: dishwashing mess_26
+  - first:
+      213: -1223315456907513891
+    second: dishwashing mess_27
+  - first:
+      213: -4033203188295044005
+    second: dishwashing mess_28
+  - first:
+      213: 4235078996217371774
+    second: dishwashing mess_29
+  - first:
+      213: 7616952476672043931
+    second: dishwashing mess_30
+  - first:
+      213: 8442242707629727219
+    second: dishwashing mess_31
+  - first:
+      213: -986922250496751667
+    second: dishwashing mess_32
+  - first:
+      213: -878641745952908792
+    second: dishwashing mess_33
+  - first:
+      213: 5727463154900360984
+    second: dishwashing mess_34
+  - first:
+      213: 9208153293961163489
+    second: dishwashing mess_35
+  - first:
+      213: 8844557392008562724
+    second: dishwashing mess_36
+  - first:
+      213: -2941998561768387505
+    second: dishwashing mess_37
+  - first:
+      213: 7426067923094317984
+    second: dishwashing mess_38
+  - first:
+      213: -1390199004985685247
+    second: dishwashing mess_39
+  - first:
+      213: -3549004373919119093
+    second: dishwashing mess_40
+  - first:
+      213: 2299881202854313729
+    second: dishwashing mess_41
+  - first:
+      213: -7869898817512436752
+    second: dishwashing mess_42
+  - first:
+      213: -78676749292118274
+    second: dishwashing mess_43
+  - first:
+      213: 4988950247051411109
+    second: dishwashing mess_44
+  - first:
+      213: 6508173960850228230
+    second: dishwashing mess_45
+  - first:
+      213: -2986037967578132490
+    second: dishwashing mess_46
+  - first:
+      213: 7993229410880715754
+    second: dishwashing mess_47
+  - first:
+      213: 3308249688040002969
+    second: dishwashing mess_48
+  - first:
+      213: -1129298156088927384
+    second: dishwashing mess_49
+  - first:
+      213: -4973102266045289426
+    second: dishwashing mess_50
+  - first:
+      213: -6352873456748725253
+    second: dishwashing mess_51
+  - first:
+      213: -8127407115500830925
+    second: dishwashing mess_52
+  - first:
+      213: 6080194766972810786
+    second: dishwashing mess_53
+  - first:
+      213: 7987051829407879404
+    second: dishwashing mess_54
+  - first:
+      213: 2964321714648985894
+    second: dishwashing mess_55
+  - first:
+      213: 5025755438416054337
+    second: dishwashing mess_56
+  - first:
+      213: -3799081080510080315
+    second: dishwashing mess_57
+  - first:
+      213: 3168143094830263655
+    second: dishwashing mess_58
+  - first:
+      213: 6874223760021710811
+    second: dishwashing mess_59
+  - first:
+      213: 1287414960096629935
+    second: dishwashing mess_60
+  - first:
+      213: -2169275467339610450
+    second: dishwashing mess_61
+  - first:
+      213: 2614965505460417637
+    second: dishwashing mess_62
+  - first:
+      213: 7177333556186782506
+    second: dishwashing mess_63
+  - first:
+      213: -2576781747679591893
+    second: dishwashing mess_64
+  - first:
+      213: -3892863683253260140
+    second: dishwashing mess_65
+  - first:
+      213: 5935096772207432496
+    second: dishwashing mess_66
+  - first:
+      213: -6360961566135203242
+    second: dishwashing mess_67
+  - first:
+      213: -274486498524104009
+    second: dishwashing mess_68
+  - first:
+      213: 3636209852309894908
+    second: dishwashing mess_69
+  - first:
+      213: 6390612331048844078
+    second: dishwashing mess_70
+  - first:
+      213: 2950640759876954884
+    second: dishwashing mess_71
+  - first:
+      213: 3754629534587154297
+    second: dishwashing mess_72
+  - first:
+      213: -6064656596767212545
+    second: dishwashing mess_73
+  - first:
+      213: 7950764279028977334
+    second: dishwashing mess_74
+  - first:
+      213: -2882243663019233010
+    second: dishwashing mess_75
+  - first:
+      213: -9135828247491677637
+    second: dishwashing mess_76
+  - first:
+      213: 8632134899128205456
+    second: dishwashing mess_77
+  - first:
+      213: 1668499344943240078
+    second: dishwashing mess_78
+  - first:
+      213: -5603372046678702811
+    second: dishwashing mess_79
+  - first:
+      213: 4010951375662323346
+    second: dishwashing mess_80
+  - first:
+      213: 8543887672319434459
+    second: dishwashing mess_81
+  - first:
+      213: 6812829666546375759
+    second: dishwashing mess_82
+  - first:
+      213: -6718581165623788250
+    second: dishwashing mess_83
+  - first:
+      213: -8567195863646268704
+    second: dishwashing mess_84
+  - first:
+      213: 1996226627290420596
+    second: dishwashing mess_85
+  - first:
+      213: -4630753048665522164
+    second: dishwashing mess_86
+  - first:
+      213: 4946738992251553963
+    second: dishwashing mess_87
+  - first:
+      213: 5484939030923837263
+    second: dishwashing mess_88
+  - first:
+      213: 7330916094850108622
+    second: dishwashing mess_89
+  - first:
+      213: 4753087155532719269
+    second: dishwashing mess_90
+  - first:
+      213: -9105701097394092845
+    second: dishwashing mess_91
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dishwashing mess_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1259
+        height: 992
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921df66d43c058440800000000000000
+      internalID: 4937365987557101865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 965
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a372243b0014ec0800000000000000
+      internalID: -3584583058501191024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_2
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 954
+        width: 95
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44155dde04273edf0800000000000000
+      internalID: -152152339206811324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_3
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 959
+        width: 119
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0fc15dad4580240800000000000000
+      internalID: 4758146305171976423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_4
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 970
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100ca7a59d6ea0a40800000000000000
+      internalID: 5335330529774059521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_5
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 367
+        width: 287
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939e1c985f4b3a810800000000000000
+      internalID: 1775461644785281337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_6
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 975
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6dfd1e0e58f745b0800000000000000
+      internalID: -5384061746650677907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_7
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 938
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1828e8ccf958ad0800000000000000
+      internalID: -2700576700625681938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_8
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 927
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23113384168601b0800000000000000
+      internalID: -5690713656477543635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_9
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 929
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a214c020b3efd50800000000000000
+      internalID: 6772915769593375289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_10
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 897
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a1febec84163f20800000000000000
+      internalID: 3401929164011281054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_11
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 919
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548a677dffe49dc10800000000000000
+      internalID: 2078779563746699333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_12
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 876
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35961590cf6ed5960800000000000000
+      internalID: 7592478516979001683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_13
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 927
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcc7b4a7f5a09d50800000000000000
+      internalID: 6742071125212646617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_14
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 917
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c395880d0f5db2000800000000000000
+      internalID: 12338654266022204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_15
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 913
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7728ef3a40f82d0800000000000000
+      internalID: -3274393301678917637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_16
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 895
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8c1bb666f84fb70800000000000000
+      internalID: 8931921631038785707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_17
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 889
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af233d30b580c6ed0800000000000000
+      internalID: -2419549712805580038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_18
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 887
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a495684634db080800000000000000
+      internalID: -9170099167226672561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_19
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 893
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564a828fa77fc4bb0800000000000000
+      internalID: -4950309782865533851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_20
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 879
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fb9cfd72d718cd0800000000000000
+      internalID: -2557625503157993619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_21
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 865
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c388319f8a106d340800000000000000
+      internalID: 4888096270802192444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_22
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 879
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf0b0dea89cff3b0800000000000000
+      internalID: -5476437023339638843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_23
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 853
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a5200ff1c824190800000000000000
+      internalID: -7979661520948536829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_24
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 855
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ba8f60fbfe29230800000000000000
+      internalID: 3644238652230904649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_25
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 859
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60be2cb1175d4bf0800000000000000
+      internalID: -338518663299682195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_26
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 751
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cfc836d8eee75b0800000000000000
+      internalID: -5368591414751069063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_27
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 753
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf68c6c219e50fe0800000000000000
+      internalID: -1223315456907513891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_28
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 639
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5473bea11f2708c0800000000000000
+      internalID: -4033203188295044005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_29
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 631
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c114d98e506ca30800000000000000
+      internalID: 4235078996217371774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_30
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 579
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ba113dbe9d4b960800000000000000
+      internalID: 7616952476672043931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_31
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 591
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdd6ef730fd82570800000000000000
+      internalID: 8442242707629727219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_32
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 575
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7463e217fbd42f0800000000000000
+      internalID: -986922250496751667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_33
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 577
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ad5afbcff6ec3f0800000000000000
+      internalID: -878641745952908792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_34
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 535
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f59fbd4690c7f40800000000000000
+      internalID: 5727463154900360984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 535
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2f5eb42aee9cf70800000000000000
+      internalID: 9208153293961163489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_36
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 529
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428c93a661e2eba70800000000000000
+      internalID: 8844557392008562724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_37
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 547
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cc51c35ebeb27d0800000000000000
+      internalID: -2941998561768387505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_38
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 545
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aba5f95e61be0760800000000000000
+      internalID: 7426067923094317984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_39
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 545
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b0abcde5505bce0800000000000000
+      internalID: -1390199004985685247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 549
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b094e3a43576fbec0800000000000000
+      internalID: -3549004373919119093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 545
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fbab9c4c1daef10800000000000000
+      internalID: 2299881202854313729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_42
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 548
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb87e3d8b088c290800000000000000
+      internalID: -7869898817512436752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_43
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 499
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe5c52d9eb78eef0800000000000000
+      internalID: -78676749292118274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_44
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 543
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aeb89d21df4c3540800000000000000
+      internalID: 4988950247051411109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_45
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 543
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604cce05cbda15a50800000000000000
+      internalID: 6508173960850228230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_46
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 530
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff0da80a467f86d0800000000000000
+      internalID: -2986037967578132490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_47
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 487
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebffbb9cc7adee60800000000000000
+      internalID: 7993229410880715754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_48
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 447
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995dbeb309349ed20800000000000000
+      internalID: 3308249688040002969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_49
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 423
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bd0d07f4de350f0800000000000000
+      internalID: -1129298156088927384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_50
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 435
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c2ea076ddfbfab0800000000000000
+      internalID: -4973102266045289426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_51
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 431
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbfb73004f06d7a0800000000000000
+      internalID: -6352873456748725253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_52
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 359
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f379f0a46a53f80800000000000000
+      internalID: -8127407115500830925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_53
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 55
+        width: 133
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2267a922de0316450800000000000000
+      internalID: 6080194766972810786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_54
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 310
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce09d765255b7de60800000000000000
+      internalID: 7987051829407879404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_55
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 319
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62131a1d4e2632920800000000000000
+      internalID: 2964321714648985894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_56
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 215
+        width: 41
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148c6c291f11fb540800000000000000
+      internalID: 5025755438416054337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_57
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 309
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca1a4bb2e3f64bc0800000000000000
+      internalID: -3799081080510080315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_58
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 225
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76de6f4fb5187fb20800000000000000
+      internalID: 3168143094830263655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_59
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 214
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7e4aaa616266f50800000000000000
+      internalID: 6874223760021710811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_60
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 159
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4551fc511ddd110800000000000000
+      internalID: 1287414960096629935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_61
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 199
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6c04da47f25e1e0800000000000000
+      internalID: -2169275467339610450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_62
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 185
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5643ed4c5493a4420800000000000000
+      internalID: 2614965505460417637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_63
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 165
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b110b97d20b9360800000000000000
+      internalID: 7177333556186782506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_64
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 175
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2209d127ae6d3cd0800000000000000
+      internalID: -2576781747679591893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_65
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 167
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490bba8fa15c9f9c0800000000000000
+      internalID: -3892863683253260140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_66
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 163
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033ddfe9113bd5250800000000000000
+      internalID: 5935096772207432496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_67
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 167
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a499c482359b7a0800000000000000
+      internalID: -6360961566135203242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_68
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 117
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba74dfdbf3d03cf0800000000000000
+      internalID: -274486498524104009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_69
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 151
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6f4bf5899667230800000000000000
+      internalID: 3636209852309894908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_70
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 139
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bb5616e0400b850800000000000000
+      internalID: 6390612331048844078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_71
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 127
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b21405328c2f820800000000000000
+      internalID: 2950640759876954884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_72
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 95
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fe1483baf1b1430800000000000000
+      internalID: 3754629534587154297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_73
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 129
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbf5f805f206dba0800000000000000
+      internalID: -6064656596767212545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_74
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 101
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be0360acf9c65e60800000000000000
+      internalID: 7950764279028977334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_75
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 93
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e013e95c8a63008d0800000000000000
+      internalID: -2882243663019233010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_76
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 84
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b327743dc94073180800000000000000
+      internalID: -9135828247491677637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_77
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 95
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0900acba4f08bc770800000000000000
+      internalID: 8632134899128205456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_78
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 95
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83505b6053b72710800000000000000
+      internalID: 1668499344943240078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_79
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 97
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525cc5dbfc2dc32b0800000000000000
+      internalID: -5603372046678702811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_80
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 78
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29697b57603c9a730800000000000000
+      internalID: 4010951375662323346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_81
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 65
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde507d029cf19670800000000000000
+      internalID: 8543887672319434459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_82
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 29
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c5dbd5c780c8e50800000000000000
+      internalID: 6812829666546375759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_83
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 65
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d3d54c60ec2c2a0800000000000000
+      internalID: -6718581165623788250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_84
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 83
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e21b22c0c43b1980800000000000000
+      internalID: -8567195863646268704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_85
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 73
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47552d28a8504bb10800000000000000
+      internalID: 1996226627290420596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_86
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 71
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c000cb313a24cbfb0800000000000000
+      internalID: -4630753048665522164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_87
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 57
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba84abd87e856a440800000000000000
+      internalID: 4946738992251553963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_88
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 47
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ff3e8fcfa6e1c40800000000000000
+      internalID: 5484939030923837263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_89
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 41
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc0cbfe855acb560800000000000000
+      internalID: 7330916094850108622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_90
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 31
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4eff3c59b56f140800000000000000
+      internalID: 4753087155532719269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishwashing mess_91
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 9
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4c0f2981d02a180800000000000000
+      internalID: -9105701097394092845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dishwashing mess_0: 4937365987557101865
+      dishwashing mess_1: -3584583058501191024
+      dishwashing mess_10: 3401929164011281054
+      dishwashing mess_11: 2078779563746699333
+      dishwashing mess_12: 7592478516979001683
+      dishwashing mess_13: 6742071125212646617
+      dishwashing mess_14: 12338654266022204
+      dishwashing mess_15: -3274393301678917637
+      dishwashing mess_16: 8931921631038785707
+      dishwashing mess_17: -2419549712805580038
+      dishwashing mess_18: -9170099167226672561
+      dishwashing mess_19: -4950309782865533851
+      dishwashing mess_2: -152152339206811324
+      dishwashing mess_20: -2557625503157993619
+      dishwashing mess_21: 4888096270802192444
+      dishwashing mess_22: -5476437023339638843
+      dishwashing mess_23: -7979661520948536829
+      dishwashing mess_24: 3644238652230904649
+      dishwashing mess_25: -338518663299682195
+      dishwashing mess_26: -5368591414751069063
+      dishwashing mess_27: -1223315456907513891
+      dishwashing mess_28: -4033203188295044005
+      dishwashing mess_29: 4235078996217371774
+      dishwashing mess_3: 4758146305171976423
+      dishwashing mess_30: 7616952476672043931
+      dishwashing mess_31: 8442242707629727219
+      dishwashing mess_32: -986922250496751667
+      dishwashing mess_33: -878641745952908792
+      dishwashing mess_34: 5727463154900360984
+      dishwashing mess_35: 9208153293961163489
+      dishwashing mess_36: 8844557392008562724
+      dishwashing mess_37: -2941998561768387505
+      dishwashing mess_38: 7426067923094317984
+      dishwashing mess_39: -1390199004985685247
+      dishwashing mess_4: 5335330529774059521
+      dishwashing mess_40: -3549004373919119093
+      dishwashing mess_41: 2299881202854313729
+      dishwashing mess_42: -7869898817512436752
+      dishwashing mess_43: -78676749292118274
+      dishwashing mess_44: 4988950247051411109
+      dishwashing mess_45: 6508173960850228230
+      dishwashing mess_46: -2986037967578132490
+      dishwashing mess_47: 7993229410880715754
+      dishwashing mess_48: 3308249688040002969
+      dishwashing mess_49: -1129298156088927384
+      dishwashing mess_5: 1775461644785281337
+      dishwashing mess_50: -4973102266045289426
+      dishwashing mess_51: -6352873456748725253
+      dishwashing mess_52: -8127407115500830925
+      dishwashing mess_53: 6080194766972810786
+      dishwashing mess_54: 7987051829407879404
+      dishwashing mess_55: 2964321714648985894
+      dishwashing mess_56: 5025755438416054337
+      dishwashing mess_57: -3799081080510080315
+      dishwashing mess_58: 3168143094830263655
+      dishwashing mess_59: 6874223760021710811
+      dishwashing mess_6: -5384061746650677907
+      dishwashing mess_60: 1287414960096629935
+      dishwashing mess_61: -2169275467339610450
+      dishwashing mess_62: 2614965505460417637
+      dishwashing mess_63: 7177333556186782506
+      dishwashing mess_64: -2576781747679591893
+      dishwashing mess_65: -3892863683253260140
+      dishwashing mess_66: 5935096772207432496
+      dishwashing mess_67: -6360961566135203242
+      dishwashing mess_68: -274486498524104009
+      dishwashing mess_69: 3636209852309894908
+      dishwashing mess_7: -2700576700625681938
+      dishwashing mess_70: 6390612331048844078
+      dishwashing mess_71: 2950640759876954884
+      dishwashing mess_72: 3754629534587154297
+      dishwashing mess_73: -6064656596767212545
+      dishwashing mess_74: 7950764279028977334
+      dishwashing mess_75: -2882243663019233010
+      dishwashing mess_76: -9135828247491677637
+      dishwashing mess_77: 8632134899128205456
+      dishwashing mess_78: 1668499344943240078
+      dishwashing mess_79: -5603372046678702811
+      dishwashing mess_8: -5690713656477543635
+      dishwashing mess_80: 4010951375662323346
+      dishwashing mess_81: 8543887672319434459
+      dishwashing mess_82: 6812829666546375759
+      dishwashing mess_83: -6718581165623788250
+      dishwashing mess_84: -8567195863646268704
+      dishwashing mess_85: 1996226627290420596
+      dishwashing mess_86: -4630753048665522164
+      dishwashing mess_87: 4946738992251553963
+      dishwashing mess_88: 5484939030923837263
+      dishwashing mess_89: 7330916094850108622
+      dishwashing mess_9: 6772915769593375289
+      dishwashing mess_90: 4753087155532719269
+      dishwashing mess_91: -9105701097394092845
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

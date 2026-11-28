@@ -1,0 +1,1458 @@
+fileFormatVersion: 2
+guid: 2fdb5a8f393f74749b89451322c24d71
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -350256401263658097
+    second: center table_0
+  - first:
+      213: -763366426840343144
+    second: center table_1
+  - first:
+      213: 2869053448736683649
+    second: center table_2
+  - first:
+      213: -4312724407307469270
+    second: center table_3
+  - first:
+      213: -4213432980406932988
+    second: center table_4
+  - first:
+      213: -9194472163183663466
+    second: center table_5
+  - first:
+      213: 1897891738126522949
+    second: center table_6
+  - first:
+      213: 5602436793704750473
+    second: center table_7
+  - first:
+      213: -4281537046011116565
+    second: center table_8
+  - first:
+      213: -9007611890983642537
+    second: center table_9
+  - first:
+      213: 6050801968037152140
+    second: center table_10
+  - first:
+      213: 913468844464271578
+    second: center table_11
+  - first:
+      213: -1965553601616561961
+    second: center table_12
+  - first:
+      213: -8674086320719035216
+    second: center table_13
+  - first:
+      213: -4001875578767753937
+    second: center table_14
+  - first:
+      213: 5221348216055892663
+    second: center table_15
+  - first:
+      213: -7426723069867604335
+    second: center table_16
+  - first:
+      213: -2675361821876140712
+    second: center table_17
+  - first:
+      213: 3370549834014621294
+    second: center table_18
+  - first:
+      213: 6471138171209865184
+    second: center table_19
+  - first:
+      213: 6622183628349192682
+    second: center table_20
+  - first:
+      213: -464675260626104094
+    second: center table_21
+  - first:
+      213: 1314220282300457712
+    second: center table_22
+  - first:
+      213: -6468404795152371474
+    second: center table_23
+  - first:
+      213: -4919527288740953644
+    second: center table_24
+  - first:
+      213: 7377738679441174954
+    second: center table_25
+  - first:
+      213: -6597558823669747086
+    second: center table_26
+  - first:
+      213: 7787337917236805926
+    second: center table_27
+  - first:
+      213: 4304973949924989297
+    second: center table_28
+  - first:
+      213: -4843083482739803408
+    second: center table_29
+  - first:
+      213: -6795138330815148873
+    second: center table_30
+  - first:
+      213: 1754887494903717880
+    second: center table_31
+  - first:
+      213: 2352845605896068925
+    second: center table_32
+  - first:
+      213: -153487912793138808
+    second: center table_33
+  - first:
+      213: 6902232663134667119
+    second: center table_34
+  - first:
+      213: 6160698353625374351
+    second: center table_35
+  - first:
+      213: -1829315136028128875
+    second: center table_36
+  - first:
+      213: 729289723106484349
+    second: center table_37
+  - first:
+      213: -212616944525786537
+    second: center table_38
+  - first:
+      213: 3989220612867067647
+    second: center table_39
+  - first:
+      213: 1187580989639976674
+    second: center table_40
+  - first:
+      213: 3994642064680577144
+    second: center table_41
+  - first:
+      213: -815318998578691254
+    second: center table_42
+  - first:
+      213: -5281616984639624165
+    second: center table_43
+  - first:
+      213: 8815770516174993680
+    second: center table_44
+  - first:
+      213: -4690555130514475670
+    second: center table_45
+  - first:
+      213: -6862976095729905396
+    second: center table_46
+  - first:
+      213: 3587308408154726210
+    second: center table_47
+  - first:
+      213: 8239991856992550442
+    second: center table_48
+  - first:
+      213: -4796755162830769841
+    second: center table_49
+  - first:
+      213: 3934748509843261959
+    second: center table_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: center table_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1772
+        height: 887
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b7f56a8a3a32bf0800000000000000
+      internalID: -350256401263658097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_1
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 877
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89dd8be774af765f0800000000000000
+      internalID: -763366426840343144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 748
+        width: 45
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1863f8529ece0d720800000000000000
+      internalID: 2869053448736683649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_3
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 808
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ef74850002624c0800000000000000
+      internalID: -4312724407307469270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 169
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40aeded2701e685c0800000000000000
+      internalID: -4213432980406932988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_5
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 154
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6966830384ca66080800000000000000
+      internalID: -9194472163183663466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_6
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 52
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a1e29fa7aa65a10800000000000000
+      internalID: 1897891738126522949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_7
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 51
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d9955b49adfbd40800000000000000
+      internalID: 5602436793704750473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_8
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 45
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be305dfbdbce494c0800000000000000
+      internalID: -4281537046011116565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_9
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 44
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ad553a5b88ef280800000000000000
+      internalID: -9007611890983642537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_10
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 45
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85c617d454c8f350800000000000000
+      internalID: 6050801968037152140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_11
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 59
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0fda3031b4dac00800000000000000
+      internalID: 913468844464271578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_12
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 45
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8b7acc963f8b4e0800000000000000
+      internalID: -1965553601616561961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_13
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 49
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b48776d2747f9780800000000000000
+      internalID: -8674086320719035216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_14
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 18
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dbc3c2d5b7678c0800000000000000
+      internalID: -4001875578767753937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_15
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 27
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba81a2e984f57840800000000000000
+      internalID: 5221348216055892663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_16
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 61
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196c75767bafee890800000000000000
+      internalID: -7426723069867604335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_17
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8554e6109943fdad0800000000000000
+      internalID: -2675361821876140712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_18
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 51
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e7132573996ce20800000000000000
+      internalID: 3370549834014621294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_19
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 47
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e75f6391e91ec950800000000000000
+      internalID: 6471138171209865184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_20
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 51
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae939259ce8b6eb50800000000000000
+      internalID: 6622183628349192682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_21
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 45
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0187aff442d89f0800000000000000
+      internalID: -464675260626104094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 29
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2e12b326c0d3210800000000000000
+      internalID: 1314220282300457712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_23
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 33
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee072812c1c9b36a0800000000000000
+      internalID: -6468404795152371474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_24
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 31
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d141c3eef35abbb0800000000000000
+      internalID: -4919527288740953644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_25
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 29
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa130c17d3ef26660800000000000000
+      internalID: 7377738679441174954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_26
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 39
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272bb6a8433c074a0800000000000000
+      internalID: -6597558823669747086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_27
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 25
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62184de939e221c60800000000000000
+      internalID: 7787337917236805926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_28
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 18
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179d69caff65ebb30800000000000000
+      internalID: 4304973949924989297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_29
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 33
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa7bb17b39e9ccb0800000000000000
+      internalID: -4843083482739803408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_30
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 33
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc4f18b0b1d2b1a0800000000000000
+      internalID: -6795138330815148873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_31
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 34
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffd28af0ec9a5810800000000000000
+      internalID: 1754887494903717880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_32
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 31
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f16c6dc9cf6a020800000000000000
+      internalID: 2352845605896068925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_33
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88916a87e83beddf0800000000000000
+      internalID: -153487912793138808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_34
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 33
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f618d3b9908a9cf50800000000000000
+      internalID: 6902232663134667119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_35
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 39
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e9c2803823f7550800000000000000
+      internalID: 6160698353625374351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_36
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 31
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5994cce6397fc96e0800000000000000
+      internalID: -1829315136028128875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_37
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 37
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70ea14a325fe1a00800000000000000
+      internalID: 729289723106484349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_38
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 27
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752cf44f302ac0df0800000000000000
+      internalID: -212616944525786537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_39
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 33
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe8b98f20f8c5730800000000000000
+      internalID: 3989220612867067647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_40
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 33
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e66f753e922b7010800000000000000
+      internalID: 1187580989639976674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_41
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 21
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8786e161bc1df6730800000000000000
+      internalID: 3994642064680577144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_42
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 29
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a430717c0b76fa4f0800000000000000
+      internalID: -815318998578691254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_43
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 29
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ca2eee55de3b6b0800000000000000
+      internalID: -5281616984639624165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_44
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 31
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019f8f59398e75a70800000000000000
+      internalID: 8815770516174993680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_45
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 37
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a657c4ed5fcc7eeb0800000000000000
+      internalID: -4690555130514475670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_46
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 19
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0195004a9fc1c0a0800000000000000
+      internalID: -6862976095729905396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_47
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f95d7adfda8c130800000000000000
+      internalID: 3587308408154726210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_48
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 23
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ef624cfe45a5270800000000000000
+      internalID: 8239991856992550442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_49
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 18
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4173fcf7908e6db0800000000000000
+      internalID: -4796755162830769841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: center table_50
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a84b92ce80b9630800000000000000
+      internalID: 3934748509843261959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      center table_0: -350256401263658097
+      center table_1: -763366426840343144
+      center table_10: 6050801968037152140
+      center table_11: 913468844464271578
+      center table_12: -1965553601616561961
+      center table_13: -8674086320719035216
+      center table_14: -4001875578767753937
+      center table_15: 5221348216055892663
+      center table_16: -7426723069867604335
+      center table_17: -2675361821876140712
+      center table_18: 3370549834014621294
+      center table_19: 6471138171209865184
+      center table_2: 2869053448736683649
+      center table_20: 6622183628349192682
+      center table_21: -464675260626104094
+      center table_22: 1314220282300457712
+      center table_23: -6468404795152371474
+      center table_24: -4919527288740953644
+      center table_25: 7377738679441174954
+      center table_26: -6597558823669747086
+      center table_27: 7787337917236805926
+      center table_28: 4304973949924989297
+      center table_29: -4843083482739803408
+      center table_3: -4312724407307469270
+      center table_30: -6795138330815148873
+      center table_31: 1754887494903717880
+      center table_32: 2352845605896068925
+      center table_33: -153487912793138808
+      center table_34: 6902232663134667119
+      center table_35: 6160698353625374351
+      center table_36: -1829315136028128875
+      center table_37: 729289723106484349
+      center table_38: -212616944525786537
+      center table_39: 3989220612867067647
+      center table_4: -4213432980406932988
+      center table_40: 1187580989639976674
+      center table_41: 3994642064680577144
+      center table_42: -815318998578691254
+      center table_43: -5281616984639624165
+      center table_44: 8815770516174993680
+      center table_45: -4690555130514475670
+      center table_46: -6862976095729905396
+      center table_47: 3587308408154726210
+      center table_48: 8239991856992550442
+      center table_49: -4796755162830769841
+      center table_5: -9194472163183663466
+      center table_50: 3934748509843261959
+      center table_6: 1897891738126522949
+      center table_7: 5602436793704750473
+      center table_8: -4281537046011116565
+      center table_9: -9007611890983642537
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
