@@ -1,0 +1,1250 @@
+fileFormatVersion: 2
+guid: e98fcea06268c4972844a9f22c7b0ef6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6569987017216453938
+    second: deer crest_0
+  - first:
+      213: -3564781893035517984
+    second: deer crest_1
+  - first:
+      213: -1591136510268060373
+    second: deer crest_2
+  - first:
+      213: 7509965740379305274
+    second: deer crest_3
+  - first:
+      213: 7900340759115826775
+    second: deer crest_4
+  - first:
+      213: 8717643362585699806
+    second: deer crest_5
+  - first:
+      213: -7103347658375110098
+    second: deer crest_6
+  - first:
+      213: 3921677332349650144
+    second: deer crest_7
+  - first:
+      213: -2756588034641131870
+    second: deer crest_8
+  - first:
+      213: 6037558023686934697
+    second: deer crest_9
+  - first:
+      213: 6226318153114815306
+    second: deer crest_10
+  - first:
+      213: -709330395497845828
+    second: deer crest_11
+  - first:
+      213: -6241188800790416207
+    second: deer crest_12
+  - first:
+      213: 4336154825355339978
+    second: deer crest_13
+  - first:
+      213: 3295275532503115047
+    second: deer crest_14
+  - first:
+      213: -402717785170831215
+    second: deer crest_15
+  - first:
+      213: -4290548238540113977
+    second: deer crest_16
+  - first:
+      213: 7184321524311680095
+    second: deer crest_17
+  - first:
+      213: -7457274922930403416
+    second: deer crest_18
+  - first:
+      213: 5810661371335329104
+    second: deer crest_19
+  - first:
+      213: -6330640070265364098
+    second: deer crest_20
+  - first:
+      213: 8725668302973065670
+    second: deer crest_21
+  - first:
+      213: 6417459864247193276
+    second: deer crest_22
+  - first:
+      213: 7430907610924137699
+    second: deer crest_23
+  - first:
+      213: 996901578644259097
+    second: deer crest_24
+  - first:
+      213: -5835621776254738679
+    second: deer crest_25
+  - first:
+      213: 8993364527147650441
+    second: deer crest_26
+  - first:
+      213: -6035322650635956997
+    second: deer crest_27
+  - first:
+      213: -7553349623116599693
+    second: deer crest_28
+  - first:
+      213: -3494567080260131389
+    second: deer crest_29
+  - first:
+      213: 514886245812345712
+    second: deer crest_30
+  - first:
+      213: -7400655434682476981
+    second: deer crest_31
+  - first:
+      213: -5537581553059193325
+    second: deer crest_32
+  - first:
+      213: -5877651913389010552
+    second: deer crest_33
+  - first:
+      213: -2508211414801230481
+    second: deer crest_34
+  - first:
+      213: 460747367845391043
+    second: deer crest_35
+  - first:
+      213: -5739015433887925375
+    second: deer crest_36
+  - first:
+      213: 1877333049720075980
+    second: deer crest_37
+  - first:
+      213: -5193672262161499672
+    second: deer crest_38
+  - first:
+      213: -5183044838620843460
+    second: deer crest_39
+  - first:
+      213: -660622075201280019
+    second: deer crest_40
+  - first:
+      213: -6817026463073128511
+    second: deer crest_41
+  - first:
+      213: 1255171639921026844
+    second: deer crest_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: deer crest_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 799
+        width: 243
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d6d1402684d2b50800000000000000
+      internalID: 6569987017216453938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 1261
+        height: 1016
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e79fdb51c9578ec0800000000000000
+      internalID: -3564781893035517984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_2
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 983
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d415c26c52be9e0800000000000000
+      internalID: -1591136510268060373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 634
+        width: 91
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3579a62d02c83860800000000000000
+      internalID: 7509965740379305274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_4
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 711
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75683a70016a3ad60800000000000000
+      internalID: 7900340759115826775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_5
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 848
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed56671437a4bf870800000000000000
+      internalID: 8717643362585699806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_6
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 719
+        width: 127
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22e27a90f6db6d90800000000000000
+      internalID: -7103347658375110098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_7
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 871
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4076e71c89c6630800000000000000
+      internalID: 3921677332349650144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_8
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 693
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a68f1b99c1aeb9d0800000000000000
+      internalID: -2756588034641131870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_9
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 673
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a05ba0c807b9c350800000000000000
+      internalID: 6037558023686934697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_10
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 685
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b89fe2f53586650800000000000000
+      internalID: 6226318153114815306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_11
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 615
+        width: 133
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbba6f373c3f726f0800000000000000
+      internalID: -709330395497845828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_12
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 685
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4bdb85ad7d269a0800000000000000
+      internalID: -6241188800790416207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_13
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 651
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8a668f6dd1d2c30800000000000000
+      internalID: 4336154825355339978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_14
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 511
+        width: 91
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72562ef33ab2bbd20800000000000000
+      internalID: 3295275532503115047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 609
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198192ede42496af0800000000000000
+      internalID: -402717785170831215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 623
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7732efb19e474c0800000000000000
+      internalID: -4290548238540113977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_17
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 597
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f546ac8bc56d3b360800000000000000
+      internalID: 7184321524311680095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 91
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a70e4ac7ff628890800000000000000
+      internalID: -7457274922930403416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_19
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 343
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055c6842bbd93a050800000000000000
+      internalID: 5810661371335329104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_20
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 199
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71aaf2b56c0528a0800000000000000
+      internalID: -6330640070265364098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 291
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9589a471dc71970800000000000000
+      internalID: 8725668302973065670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_22
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 241
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbec7c0deb56f0950800000000000000
+      internalID: 6417459864247193276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_23
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 287
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec31ebf913ef1760800000000000000
+      internalID: 7430907610924137699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_24
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 327
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9110e1734b4b5dd00800000000000000
+      internalID: 996901578644259097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_25
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 142
+        width: 91
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f5dc6b9e4b30fa0800000000000000
+      internalID: -5835621776254738679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_26
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 227
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d0c387369decc70800000000000000
+      internalID: 8993364527147650441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_27
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 257
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc89f7960a3e3ca0800000000000000
+      internalID: -6035322650635956997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_28
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 444
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37eedc1898c1d2790800000000000000
+      internalID: -7553349623116599693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_29
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 225
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5225961cdc08fc0800000000000000
+      internalID: -3494567080260131389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_30
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 230
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b1165005e352700800000000000000
+      internalID: 514886245812345712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_31
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 575
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46dfaea7179b4990800000000000000
+      internalID: -7400655434682476981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_32
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 210
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e9627baee8623b0800000000000000
+      internalID: -5537581553059193325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_33
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 151
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8819d05d9b26e6ea0800000000000000
+      internalID: -5877651913389010552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_34
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 292
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65513fd10b013dd0800000000000000
+      internalID: -2508211414801230481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_35
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 340
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3caee973a47e46600800000000000000
+      internalID: 460747367845391043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_36
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 303
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b30a69edbea50b0800000000000000
+      internalID: -5739015433887925375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_37
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 247
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc67aa15670ad0a10800000000000000
+      internalID: 1877333049720075980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_38
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 557
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e97016489e5ce7b0800000000000000
+      internalID: -5193672262161499672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_39
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 23
+        width: 177
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3235132e202218b0800000000000000
+      internalID: -5183044838620843460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_40
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 495
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7a8d409bff4d6f0800000000000000
+      internalID: -660622075201280019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_41
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 439
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfa61ccc8e0561a0800000000000000
+      internalID: -6817026463073128511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer crest_42
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 495
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1723a1d4f34b6110800000000000000
+      internalID: 1255171639921026844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      deer crest_0: 6569987017216453938
+      deer crest_1: -3564781893035517984
+      deer crest_10: 6226318153114815306
+      deer crest_11: -709330395497845828
+      deer crest_12: -6241188800790416207
+      deer crest_13: 4336154825355339978
+      deer crest_14: 3295275532503115047
+      deer crest_15: -402717785170831215
+      deer crest_16: -4290548238540113977
+      deer crest_17: 7184321524311680095
+      deer crest_18: -7457274922930403416
+      deer crest_19: 5810661371335329104
+      deer crest_2: -1591136510268060373
+      deer crest_20: -6330640070265364098
+      deer crest_21: 8725668302973065670
+      deer crest_22: 6417459864247193276
+      deer crest_23: 7430907610924137699
+      deer crest_24: 996901578644259097
+      deer crest_25: -5835621776254738679
+      deer crest_26: 8993364527147650441
+      deer crest_27: -6035322650635956997
+      deer crest_28: -7553349623116599693
+      deer crest_29: -3494567080260131389
+      deer crest_3: 7509965740379305274
+      deer crest_30: 514886245812345712
+      deer crest_31: -7400655434682476981
+      deer crest_32: -5537581553059193325
+      deer crest_33: -5877651913389010552
+      deer crest_34: -2508211414801230481
+      deer crest_35: 460747367845391043
+      deer crest_36: -5739015433887925375
+      deer crest_37: 1877333049720075980
+      deer crest_38: -5193672262161499672
+      deer crest_39: -5183044838620843460
+      deer crest_4: 7900340759115826775
+      deer crest_40: -660622075201280019
+      deer crest_41: -6817026463073128511
+      deer crest_42: 1255171639921026844
+      deer crest_5: 8717643362585699806
+      deer crest_6: -7103347658375110098
+      deer crest_7: 3921677332349650144
+      deer crest_8: -2756588034641131870
+      deer crest_9: 6037558023686934697
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

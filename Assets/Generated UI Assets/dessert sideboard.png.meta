@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: 1ccff97cb2e3143a895d0b7a477e122a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3030756445506135020
+    second: dessert sideboard_0
+  - first:
+      213: 6127646499990519052
+    second: dessert sideboard_1
+  - first:
+      213: 2240399057233446637
+    second: dessert sideboard_2
+  - first:
+      213: 3878651680106598591
+    second: dessert sideboard_3
+  - first:
+      213: 5649837378206717041
+    second: dessert sideboard_4
+  - first:
+      213: -6933225767343948024
+    second: dessert sideboard_5
+  - first:
+      213: -2075293308764693386
+    second: dessert sideboard_6
+  - first:
+      213: -4318383549055877233
+    second: dessert sideboard_7
+  - first:
+      213: 2959875954757090192
+    second: dessert sideboard_8
+  - first:
+      213: 3773862530532196229
+    second: dessert sideboard_9
+  - first:
+      213: 33943263110673606
+    second: dessert sideboard_10
+  - first:
+      213: 4971680507668543486
+    second: dessert sideboard_11
+  - first:
+      213: -2225515810580073131
+    second: dessert sideboard_12
+  - first:
+      213: -4933361061307141330
+    second: dessert sideboard_13
+  - first:
+      213: -4949772243083674475
+    second: dessert sideboard_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dessert sideboard_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 23
+        width: 1469
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce36e17fde86f0a20800000000000000
+      internalID: 3030756445506135020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dessert sideboard_1
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 897
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0db91da606c90550800000000000000
+      internalID: 6127646499990519052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dessert sideboard_2
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 859
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de60589821f771f10800000000000000
+      internalID: 2240399057233446637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dessert sideboard_3
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 865
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0d930372db3d530800000000000000
+      internalID: 3878651680106598591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dessert sideboard_4
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 865
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1745cbe4921486e40800000000000000
+      internalID: 5649837378206717041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dessert sideboard_5
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 673
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ff0edf5eb38cf90800000000000000
+      internalID: -6933225767343948024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dessert sideboard_6
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 419
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cd5562bb31333e0800000000000000
+      internalID: -2075293308764693386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dessert sideboard_7
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 356
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f32aaba050214c0800000000000000
+      internalID: -4318383549055877233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dessert sideboard_8
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 351
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b348eaf77931920800000000000000
+      internalID: 2959875954757090192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dessert sideboard_9
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 165
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f378b0af37f5430800000000000000
+      internalID: 3773862530532196229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dessert sideboard_10
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 145
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4ba3cc737987000800000000000000
+      internalID: 33943263110673606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dessert sideboard_11
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 129
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef73154a415fef440800000000000000
+      internalID: 4971680507668543486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dessert sideboard_12
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 111
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555fb5c59216d11e0800000000000000
+      internalID: -2225515810580073131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dessert sideboard_13
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 107
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e233b08b04e298bb0800000000000000
+      internalID: -4933361061307141330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dessert sideboard_14
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 100
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cb8e3be50ee4bb0800000000000000
+      internalID: -4949772243083674475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dessert sideboard_0: 3030756445506135020
+      dessert sideboard_1: 6127646499990519052
+      dessert sideboard_10: 33943263110673606
+      dessert sideboard_11: 4971680507668543486
+      dessert sideboard_12: -2225515810580073131
+      dessert sideboard_13: -4933361061307141330
+      dessert sideboard_14: -4949772243083674475
+      dessert sideboard_2: 2240399057233446637
+      dessert sideboard_3: 3878651680106598591
+      dessert sideboard_4: 5649837378206717041
+      dessert sideboard_5: -6933225767343948024
+      dessert sideboard_6: -2075293308764693386
+      dessert sideboard_7: -4318383549055877233
+      dessert sideboard_8: 2959875954757090192
+      dessert sideboard_9: 3773862530532196229
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
